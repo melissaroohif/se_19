@@ -28,4 +28,3 @@ The project consists of the following files:
 
 - Add more pages (e.g., About Us, Team)
 - Implement a backend to handle form submissions
-- Enhance accessibility features
