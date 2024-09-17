@@ -42,7 +42,7 @@ nav {
     text-decoration: underline;
 }
 
-#menu-toggle, .menu-icon {
+.menu-icon {
     display: none;
 }
 
@@ -113,7 +113,6 @@ main {
     .features {
         grid-template-columns: 1fr;
     }
-    /* Existing styles remain unchanged */
     
 .services-grid {
     display: grid;
